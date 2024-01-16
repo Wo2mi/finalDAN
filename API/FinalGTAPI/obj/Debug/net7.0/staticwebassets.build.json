@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "xwQNJTlpkQXFAdKuPMAg5FdQN2Zwinyb/BKw2xig/MU=",
+  "Source": "FinalGTAPI",
+  "BasePath": "_content/FinalGTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinalGTAPI\\wwwroot",
+      "Source": "FinalGTAPI",
+      "ContentRoot": "C:\\Users\\Admin\\project1\\API\\FinalGTAPI\\wwwroot\\",
+      "BasePath": "_content/FinalGTAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
